@@ -32,7 +32,8 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/baef8515-67d7-4c96-accc-4ee88035c9e7)
 
-### ●	All the processes related to pre-processing will be shown on the screen.
+### ●	All the processes related to pre-processing will be shown on the screen.![4](https://github.com/user-attachments/assets/4dabb3fb-2aab-4549-b1fb-b0376f4b90de)
+
 ### ●	Select CAD file preparation from the visible list.
 ### ●	When the first process is selected then it will open in the blank space in the left side of the screen.
 ### ●	Select the options of process of pre-processing in the sequence in which they are shown.
@@ -44,9 +45,12 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
-
-### Name:
-### Register Number:
+![1](https://github.com/user-attachments/assets/b6f7fe6e-c015-4b5b-bee5-39e92b435cac)
+![2](https://github.com/user-attachments/assets/03200094-cb9d-4367-b435-6c4aa803b3f9)
+![3](https://github.com/user-attachments/assets/de84b612-f2dc-4b5f-b14c-823e1c4b1c88)
+![4](https://github.com/user-attachments/assets/2acc4530-d845-42df-b4b3-5487cdba903f)
+### Name: k.Mohamed Althaf
+### Register Number: 212224240089
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
